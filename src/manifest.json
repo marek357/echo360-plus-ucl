@@ -13,8 +13,8 @@
             "matches": [
                 "https://echo360.org/section/*",
                 "http://echo360.org/section/*",
-                "https://echo360.org.au/section/*",
-                "http://echo360.org.au/section/*"
+                "https://echo360.org.uk/section/*",
+                "http://echo360.org.uk/section/*"
             ],
             "js": [
                 "js/custom-file-names.js"
@@ -26,8 +26,8 @@
             "matches": [
                 "https://echo360.org/lesson/*",
                 "http://echo360.org/lesson/*",
-                "https://echo360.org.au/lesson/*",
-                "http://echo360.org.au/lesson/*"
+                "https://echo360.org.uk/lesson/*",
+                "http://echo360.org.uk/lesson/*"
             ],
             "js": [
                 "js/more-speed-options.js"
@@ -39,8 +39,8 @@
             "matches": [
                 "https://echo360.org/section/*",
                 "http://echo360.org/section/*",
-                "https://echo360.org.au/section/*",
-                "http://echo360.org.au/section/*"
+                "https://echo360.org.uk/section/*",
+                "http://echo360.org.uk/section/*"
             ],
             "js": [
                 "js/day-with-dates.js"
@@ -52,8 +52,8 @@
             "matches": [
                 "https://echo360.org/section/*",
                 "http://echo360.org/section/*",
-                "https://echo360.org.au/section/*",
-                "http://echo360.org.au/section/*"
+                "https://echo360.org.uk/section/*",
+                "http://echo360.org.uk/section/*"
             ],
             "css": [
                 "css/reposition-popup.css"
@@ -64,8 +64,8 @@
             "matches": [
                 "https://echo360.org/section/*",
                 "http://echo360.org/section/*",
-                "https://echo360.org.au/section/*",
-                "http://echo360.org.au/section/*"
+                "https://echo360.org.uk/section/*",
+                "http://echo360.org.uk/section/*"
             ],
             "js": [
                 "js/hide-future-lectures.js"
